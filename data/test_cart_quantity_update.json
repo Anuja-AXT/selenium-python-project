@@ -1,0 +1,10 @@
+{
+  "data": [
+    {
+      "name": "increase_then_decrease_quantity_updates_totals",
+      "product": "Samsung Note 8",
+      "increase_to": 2,
+      "decrease_to": 1
+    }
+  ]
+}

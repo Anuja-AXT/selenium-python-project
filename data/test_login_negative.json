@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "name": "empty_both",
+      "username": "",
+      "password": "",
+      "expected_error": "Empty username/password."
+    },
+    {
+      "name": "empty_username",
+      "username": "",
+      "password": "Learning@830$3mK2",
+      "expected_error": "Empty username/password."
+    },
+    {
+      "name": "empty_password",
+      "username": "rahulshettyacademy",
+      "password": "",
+      "expected_error": "Empty username/password."
+    },
+    {
+      "name": "invalid_both",
+      "username": "wrong",
+      "password": "wrong",
+      "expected_error": "Incorrect username/password."
+    }
+  ]
+}

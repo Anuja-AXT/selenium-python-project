@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "name": "add_single_product_verify_count_and_cart",
+      "products": ["Samsung Note 8"]
+    },
+    {
+      "name": "add_two_products_verify_count_and_cart",
+      "products": ["Samsung Note 8", "Nokia Edge"]
+    },
+    {
+      "name": "add_three_products_verify_count_and_cart",
+      "products": ["Samsung Note 8", "Nokia Edge", "Blackberry"]
+    }
+  ]
+}

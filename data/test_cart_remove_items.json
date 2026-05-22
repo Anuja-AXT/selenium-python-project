@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "name": "remove_1_of_2",
+      "products_to_add": ["Samsung Note 8", "Nokia Edge"],
+      "products_to_remove": ["Nokia Edge"]
+    },
+    {
+      "name": "remove_2_of_3",
+      "products_to_add": ["Samsung Note 8", "Nokia Edge", "Blackberry"],
+      "products_to_remove": ["Nokia Edge", "Blackberry"]
+    }
+  ]
+}
