@@ -46,8 +46,7 @@ selenium-python-project/
 - **Explicit Waits** — `WebDriverWait` with `expected_conditions` used throughout, replacing fragile `time.sleep()` calls
 - **Multi-browser support** — runs on Chrome or Firefox via `--browser_name` CLI flag
 - **Parameterized tests** — `@pytest.mark.parametrize` drives multiple scenarios from a single test function
-- **pytest Markers** — tests tagged as `@smoke` and `@regression` for selective execution
-- **Session-scoped fixtures** — login performed once per session for efficiency; browser fixture scoped per function for isolation
+
 
 ---
 
@@ -160,5 +159,5 @@ A publicly available practice site for automation engineers — suitable for dem
 ## Author
 
 **Anuja Taywade**
-Senior QA Automation Engineer | 7+ years in test automation
+Senior QA Automation Engineer | 6+ years in test automation
 [LinkedIn](https://www.linkedin.com/in/anuja-taywade)
